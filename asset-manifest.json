@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Marturiramya.github.io/hima/static/css/main.e6c13ad2.css",
+    "main.js": "/Marturiramya.github.io/hima/static/js/main.4fa72aeb.js",
+    "static/js/453.1b6cbde4.chunk.js": "/Marturiramya.github.io/hima/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/Marturiramya.github.io/hima/index.html",
+    "main.e6c13ad2.css.map": "/Marturiramya.github.io/hima/static/css/main.e6c13ad2.css.map",
+    "main.4fa72aeb.js.map": "/Marturiramya.github.io/hima/static/js/main.4fa72aeb.js.map",
+    "453.1b6cbde4.chunk.js.map": "/Marturiramya.github.io/hima/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4fa72aeb.js"
+  ]
+}
